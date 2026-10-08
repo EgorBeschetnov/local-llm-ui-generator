@@ -2,8 +2,9 @@ Local LLM UI Generator
 
 ![Dashboard](docs/dashboard.png)
 
-Analytics
-Game Menu
+![Analytics](docs/analytics.png)
+
+![Game Menu](docs/game.png)
 
 A Python desktop app that turns a natural language description into a working user interface, generated entirely on your own machine.
 
