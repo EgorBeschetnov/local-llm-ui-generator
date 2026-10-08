@@ -1,5 +1,9 @@
 Local LLM UI Generator
 
+Dashboard
+Analytics
+Game Menu
+
 A Python desktop app that turns a natural language description into a working user interface, generated entirely on your own machine.
 
 Describe the interface you want, and the app produces an interactive HTML page you can open in your browser. The generated UI is functional: sliders drag, checkboxes toggle, dropdowns open, sidebar navigation works.
