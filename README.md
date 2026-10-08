@@ -1,6 +1,6 @@
 Local LLM UI Generator
 
-![Dashboard]{docs/dashboard.png}
+![Dashboard](docs/dashboard.png)
 
 Analytics
 Game Menu
